@@ -10,21 +10,17 @@ Version: 1.0
 Gravity Forms CRM Addon allows you to connect different CRM and create new Leads as the forms are filled automatically.
 
 == Description ==
-Gravity Forms is the best way to use forms in your web, becouse it has much power, flexibilty and functionality than CRM HTML Forms. But with this plugin you can connect every entry that is filled directly to the CRM.
+> This plugin requires the <a href="https://www.closemarketing.es/likes/gravityforms/">Gravity Forms plugin</a>. <strong>Don't use Gravity Forms? <a href="https://www.closemarketing.es/likes/gravityforms/">Buy the plugin</a></strong> and start using this revolutionary plugin!
 
-The plugin setup is very easy. Once you have uploaded the plugin, you configure the plugin with the URL, user and password of the user that will create the entries in the CRM.
+The plugin setup is very easy. Once you have uploaded the plugin, you configure the plugin with the URL, user and password of the user that will create the entries in the <a href="https://www.closemarketing.es/likes/facturadirecta/">FacturaDirecta</a>.
 
-After that, you go to each form that you want to connect with the CRM. You will see a mapping fields where you choose for every field, the equivalent for CRM software field.
+After that, you go to each form that you want to connect with the <a href="https://www.closemarketing.es/likes/facturadirecta/">FacturaDirecta</a>. You will see a mapping fields where you choose for every field, the equivalent for CRM software field.
 
-The plugin connects with the CRM via webservice, a secure and best way to connect it.
-
-At this time, CRM Software that are supported are: vTiger SugarCRM
-
-You can only use one type of CRM in the web with this version.
-
-We will support more CRM, you can comment which CRM you would like to use, and we will consider in next versions.
+The plugin connects with FacturaDirecta via webservice, a secure and best way to connect it.
 
 Translations: Spanish.
+
+Developed By <a href="https://www.closemarketing.es/servicios-agencia-granada/desarrollo-web-wordpress/">Closemarketing</a>
 
 == Installation ==
 
@@ -44,6 +40,7 @@ WordPress installation and then activate the Plugin from Plugins page.
 
 == Closemarketing plugins ==
 
+*	[Woocommerce Spanish](http://wordpress.org/plugins/woocommerce-es/)
 *	[Send SMS to WordPress Users via Arsys](http://wordpress.org/plugins/send-sms-arsys/)
 *	[Clean HTML Code in the Editor](http://wordpress.org/plugins/clean-html/)
 *	[Gravity Forms Spanish](http://wordpress.org/plugins/gravityforms-es/)
