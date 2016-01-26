@@ -1,0 +1,120 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Gravity Forms FacturaDirecta Add-On\n"
+"POT-Creation-Date: 2016-01-26 16:14+0100\n"
+"PO-Revision-Date: 2016-01-26 16:14+0100\n"
+"Last-Translator: David <david@closemarketing.es>\n"
+"Language-Team: David <david@closemarketing.es>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: facturadirecta.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-gf-facturadirecta.php:53
+msgid "CRM Account Information"
+msgstr ""
+
+#: class-gf-facturadirecta.php:54
+msgid ""
+"Use this connector with FacturaDirecta software. Use Gravity Forms to "
+"collect customer information and automatically add them to your "
+"FacturaDirecta Clients."
+msgstr ""
+
+#: class-gf-facturadirecta.php:58
+msgid "Account Name"
+msgstr ""
+
+#: class-gf-facturadirecta.php:64
+msgid "Username"
+msgstr ""
+
+#: class-gf-facturadirecta.php:70
+msgid "Password"
+msgstr ""
+
+#: class-gf-facturadirecta.php:73
+msgid "Use the password of the actual user."
+msgstr ""
+
+#: class-gf-facturadirecta.php:93
+msgid "Use the Password of your account."
+msgstr ""
+
+#: class-gf-facturadirecta.php:109
+#, php-format
+msgid ""
+"We are unable to login to CRM with the provided API key or URL is incorrect "
+"(it must finish with slash / ). Please make sure you have entered a valid "
+"API key in the %sSettings Page%s"
+msgstr ""
+
+#: class-gf-facturadirecta.php:125
+msgid "CRM Feed"
+msgstr ""
+
+#: class-gf-facturadirecta.php:130 class-gf-facturadirecta.php:134
+#: class-gf-facturadirecta.php:173
+msgid "Name"
+msgstr ""
+
+#: class-gf-facturadirecta.php:134
+msgid "Enter a feed name to uniquely identify this setup."
+msgstr ""
+
+#: class-gf-facturadirecta.php:138 class-gf-facturadirecta.php:142
+msgid "Map Fields"
+msgstr ""
+
+#: class-gf-facturadirecta.php:142
+msgid ""
+"Associate your CRM custom fields to the appropriate Gravity Form fields by "
+"selecting the appropriate form field from the list."
+msgstr ""
+
+#: class-gf-facturadirecta.php:258
+msgid "We could not create the lead in "
+msgstr ""
+
+#: class-gf-facturadirecta.php:259
+msgid ""
+"<p>There was a problem creating the lead in the CRM.</p><p>Try to find where "
+"it was the problem in the Wordpress Settings.</p><br/><p><strong>Gravity "
+"Forms CRM</strong>"
+msgstr ""
+
+#: class-gf-facturadirecta.php:629
+msgid "Message Debug Mode"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Gravity Forms FacturaDirecta Add-On"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/gravityforms-facturadirecta"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Integrates Gravity Forms with FacturaDirecta allowing form submissions to be "
+"automatically sent to FacturaDirecta."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "closemarketing"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.closemarketing.es"
+msgstr ""
